@@ -1,5 +1,6 @@
-### Hi there, I'm Jesil Oyeinkuro Toborowei 👋
-   I’m currently working on all things mobile/ technical article
+### Hi there,👋 I'm Jesil Oyeinkuro Toborowei 
+  
+I’m currently working on all things mobile/ technical article
 👯 I’m looking to collaborate on Android, Java, Kotlin and Android architectures
 📫 How to reach me: Twitter,LinkedIn
 ⚡ Fun fact: I am a gamer, Love movies and connecting with people
