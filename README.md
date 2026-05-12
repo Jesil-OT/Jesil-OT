@@ -27,8 +27,4 @@ src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&l
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-#### Currently working at:
-
-- [Android Engineer @ AjayTech]
-
 Thanks for checking out my profile.
