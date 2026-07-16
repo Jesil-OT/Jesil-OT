@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="28"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/rust-%23DEA584.svg?&style=for-the-badge&logo=rust&logoColor=black"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
