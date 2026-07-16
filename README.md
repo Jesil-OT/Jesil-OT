@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on all things mobile/Android and cross platform
 - 👯 I’m looking to collaborate on Android
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jesil-toborowei/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jesil-toborowei/)
 - ⚡ Fun fact: Love movies, Anime and Music
 
 #### Technologies and Tools i use
